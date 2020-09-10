@@ -1,0 +1,1 @@
+// scripts info for today's git project

@@ -6,3 +6,4 @@ commands covered so far:
 5) git log
 6) git status 
 7) git diff
+8) git diff file_name.ext
