@@ -1,0 +1,8 @@
+commands covered so far:
+1) git init
+2) git add -A
+3) git add .
+4) git commit -m "making changes to our project"
+5) git log
+6) git status 
+7) git diff
